@@ -88,6 +88,7 @@ h2 {
 }
 
 h3 {
+    color: #56817A;
     font-family: "Lato", Helvetica, Arial, sans-serif;
     font-weight: 300;
     font-size: 14px;
@@ -344,4 +345,10 @@ ul.two-column li {
 
 .references-container .fa {
     font-size: 14px;
+}
+
+/* Custom */
+.highlights li::marker {
+    content: "\f054";
+    font-family: "FontAwesome";
 }

@@ -11,6 +11,9 @@
   </h3>
   {{/if}}
   <h5 class="italic pull-right">
+    {{#if location}}
+      <span>{{location}}, </span>
+    {{/if}}
     {{#if startDate}}
       <span class="startDate">{{formatDate startDate}}</span>
     {{#if endDate}}

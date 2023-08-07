@@ -4,20 +4,21 @@
 
   {{#each resume.work}}
   <section class="item">
-    {{> section-header name=this.name }}
 
     {{#if position}}
       <h4>{{position}}</h4>
     {{/if}}
 
+    {{> section-header }}
+
     {{#if summary}}
-      <p class="summary">{{summary}}</p>
+      <p class="summary">{{{summary}}}</p>
     {{/if}}
 
     {{#if highlights.length}}
-      <ul>
+      <ul class="highlights">
         {{#each highlights}}
-        <li>{{.}}</li>
+        <li>{{{.}}}</li>
         {{/each}}
       </ul>
     {{/if}}
