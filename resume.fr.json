@@ -1,0 +1,213 @@
+{
+  "basics": {
+    "name": "Hélène Jonin",
+    "label": "Développeuse",
+    "image": "",
+    "summary": "J'aime résoudre des problèmes, parfois en codant. Sinon, je chante, joue de la musique, dessine et lis.",
+    "website": "",
+    "email": "",
+    "location": {
+      "city": "Paris",
+      "countryCode": "FR"
+    },
+    "profiles": [
+      {
+        "url": "https://www.linkedin.com/in/helenejonin",
+        "username": "helenejonin",
+        "network": "linkedin"
+      },
+      {
+        "url": "https://github.com/hjonin",
+        "username": "hjonin",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2014",
+      "startDate": "2012",
+      "area": "Informatique et Interaction Homme-Machine",
+      "studyType": "Master",
+      "institution": "Université Paul Sabatier / Edinburgh Napier University"
+    },
+    {
+      "endDate": "2012",
+      "startDate": "2009",
+      "area": "Informatique",
+      "studyType": "Licence",
+      "institution": "Université Paul Sabatier"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML / CSS / SCSS",
+        "Javascript / Typescript",
+        "Angular"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Node.js / Eleventy / Metalsmith / Static Generation",
+        "Java / Spring (MVC, Boot) / Kotlin",
+        "Python / Flask",
+        "PHP / Zend",
+        "MySQL / MongoDB / GraphQL"
+      ],
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "Git",
+        "Github Actions",
+        "Docker"
+      ],
+      "name": "Ops"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Développement du site institutionnel (code.gouv.fr) et d'outils pour les administrations françaises (eleventy-dsfr) en <strong>JavaScript</strong> avec <strong>Eleventy</strong>.",
+        "Présentations et formations autour des <strong>logiciels libres</strong>."
+      ],
+      "summary": "J'écris du code et je sensibilise les administrations françaises aux <strong>logiciels libres</strong>.",
+      "website": "https://www.code.gouv.fr",
+      "name": "DINUM",
+      "location": "Paris",
+      "position": "Développeuse et chargée de mission logiciels libres",
+      "startDate": "2022-08",
+      "endDate": ""
+    },
+    {
+      "highlights": [
+        "Obtention d'une certification \"Voix Chantée dans les Musiques Actuelles\"."
+      ],
+      "summary": "Formation d'un an d'autrice-compositrice-interprète.",
+      "website": "",
+      "name": "Manufacture Chanson",
+      "location": "Paris",
+      "position": "Année sabbatique (formation)",
+      "startDate": "2021-09",
+      "endDate": "2022-06"
+    },
+    {
+      "highlights": [
+        "Acculturation à l'administration française et aux pratiques archivistiques.",
+        "Développement d'un prototype <strong>open source</strong> d'application de versement d'archive bureautiques en <strong>TypeScript</strong> avec <strong>Angular</strong>."
+      ],
+      "summary": "Immersion d'un an au sein du programme Vitam, un programme interministériel d'archivage électronique.",
+      "website": "https://www.programmevitam.fr",
+      "name": "Ministère de la Culture",
+      "location": "Paris",
+      "position": "Ingénieure logiciel (programme \"Entrepreneur d'Intérêt Général \")",
+      "startDate": "2020-09",
+      "endDate": "2021-06"
+    },
+    {
+      "highlights": [
+        "Modernisation et maintenance de l'application.",
+        "Migrations et refactorings tel que la \"bootification\" de l'application."
+      ],
+      "summary": "Membre de l'équipe de développement du logiciel d'éco-pilotage SkyBreathe® Fuel Efficiency.",
+      "website": "https://www.openairlines.com",
+      "name": "OpenAirlines",
+      "location": "Toulouse",
+      "position": "Ingénieure logiciel",
+      "startDate": "2018-03",
+      "endDate": "2020-08"
+    },
+    {
+      "highlights": [
+        "Traitement de données de capteurs en <strong>Java</strong> et <strong>Python</strong>.",
+        "Intégration d'algorithmes dans le cloud en utilisant les services managés <strong>AWS</strong>."
+      ],
+      "summary": "Membre d'un projet visant à permettre la conduite autonome de niveau 4.",
+      "website": "https://www.continental-automotive.com/",
+      "name": "Continental Automotive",
+      "location": "Toulouse",
+      "position": "Ingénieure logiciel",
+      "startDate": "2017-09",
+      "endDate": "2018-01"
+    },
+    {
+      "highlights": [
+        "Développement d'une application <strong>open source</strong> d'intégration de données Marketing dans le cloud en <strong>Python</strong> et en utilisant <strong>GCP</strong>.",
+        "Maintenance des sites webs internes et institutionnels en <strong>HTML/CSS/JavaScript</strong> et avec <strong>Metalsmith</strong>."
+      ],
+      "summary": "Immersion d'un an au sein de l'équipe Marketing d'une entreprise <strong>open source</strong>.",
+      "website": "https://www.nuxeo.com",
+      "name": "Nuxeo",
+      "location": "New York",
+      "position": "Développeuse web (programme \"Volontariat International en Entreprise\")",
+      "startDate": "2016-08",
+      "endDate": "2017-06"
+    },
+    {
+      "highlights": [
+        "Implémentation de services web en <strong>Java</strong> avec <strong>Spring MVC</strong> et intégration du frontend en <strong>JavaScript</strong>.",
+        "Développement de parseurs de données avioniques en <strong>Java</strong> et <strong>Python</strong>."
+      ],
+      "summary": "Membre de l'équipe de développement du logiciel d'éco-pilotage SkyBreathe® Fuel Efficiency.",
+      "website": "https://www.openairlines.com/",
+      "name": "OpenAirlines",
+      "location": "Toulouse",
+      "position": "Ingénieure logiciel",
+      "startDate": "2014-10",
+      "endDate": "2016-07"
+    },
+    {
+      "highlights": [
+        "Stage de 3 mois pour une petite entreprise d'e-commerce (x2i).",
+        "Stage de 3 mois pour l'Institut de Recherche en Informatique de Toulouse.",
+        "Stage de 3 mois pour Airbus Defense & Space dans la division spatiale."
+      ],
+      "summary": "",
+      "name": "Divers",
+      "location": "Toulouse",
+      "position": "Stagiaire en informatique",
+      "endDate": "2014-09",
+      "startDate": "2012-06"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        "Chanter",
+        "Composer",
+        "Jouer de la flûte et de la guitare"
+      ]
+    },
+    {
+      "name": "",
+      "keywords": [
+        "Lire des romans graphiques",
+        "Visionner des films étrangers"
+      ]
+    },
+    {
+      "name": "",
+      "keywords": [
+        "Voyager en train ou à vélo",
+        "Cuisiner et manger"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Natif"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Courant"
+    },
+    {
+      "language": "Espagnol",
+      "fluency": "Débutant"
+    }
+  ]
+}
