@@ -1,0 +1,211 @@
+{
+  "basics": {
+    "name": "Hélène Jonin",
+    "label": "Software Engineer",
+    "image": "",
+    "summary": "I try to solve some problems with code. Sometimes, I sing.",
+    "website": "",
+    "email": "",
+    "location": {
+      "city": "Paris",
+      "countryCode": "FR"
+    },
+    "profiles": [
+      {
+        "url": "https://www.linkedin.com/in/helenejonin",
+        "username": "helenejonin",
+        "network": "linkedin"
+      },
+      {
+        "url": "https://github.com/hjonin",
+        "username": "hjonin",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2014",
+      "startDate": "2012",
+      "area": "Computer Science and Human Computer Interaction",
+      "studyType": "Master",
+      "institution": "Université Paul Sabatier / Edinburgh Napier University"
+    },
+    {
+      "endDate": "2012",
+      "startDate": "2009",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "institution": "Université Paul Sabatier"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML / CSS / SCSS",
+        "Javascript / Typescript",
+        "Angular"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Node.js / Eleventy / Metalsmith / Static Generation",
+        "Java / Spring (MVC, Boot) / Kotlin",
+        "Python / Flask",
+        "PHP / Zend",
+        "MySQL / MongoDB / GraphQL"
+      ],
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "Git",
+        "Github Actions",
+        "Docker"
+      ],
+      "name": "Ops"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Developing team website (code.gouv.fr) and open source tools for public administrations (eleventy-dsfr) in <strong>JavaScript</strong> with <strong>Eleventy</strong>.",
+        "Maintaining current team IT infrastructure."
+      ],
+      "summary": "Writing code and advocating for <strong>FLOSS</strong> in public administrations within an <strong>OSPO</strong>.",
+      "website": "https://www.code.gouv.fr",
+      "name": "DINUM",
+      "location": "Paris",
+      "position": "Software Engineer and FLOSS Commissioner",
+      "startDate": "2022-08",
+      "endDate": ""
+    },
+    {
+      "highlights": [],
+      "summary": "1 year artistic training (singer-songwriter).",
+      "website": "",
+      "name": "Manufacture Chanson",
+      "location": "Paris",
+      "position": "Sabbatical",
+      "startDate": "2021-09",
+      "endDate": "2022-06"
+    },
+    {
+      "highlights": [
+        "Acculturation to French administration, and paper and digital preservation practices.",
+        "Developed an <strong>open source</strong> file transfer application prototype for archivists in <strong>TypeScript</strong> with <strong>Angular</strong>."
+      ],
+      "summary": "1 year immersion into the Programme Vitam, a French inter-ministerial program developing an <strong>open source</strong> digital preservation software.",
+      "website": "https://www.programmevitam.fr",
+      "name": "Ministère de la Culture",
+      "location": "Paris",
+      "position": "Software Engineer (\"Entrepreneur d'Intérêt Général \" program)",
+      "startDate": "2020-09",
+      "endDate": "2021-06"
+    },
+    {
+      "highlights": [
+        "Helped to refactor backend including <strong>Java Spring</strong> \"bootification\".",
+        "Helped to ops and frontend migration."
+      ],
+      "summary": "Was part of the SkyBreathe® Fuel Efficiency development team again to modernize the application.",
+      "website": "https://www.openairlines.com",
+      "name": "OpenAirlines",
+      "location": "Toulouse",
+      "position": "Software Engineer",
+      "startDate": "2018-03",
+      "endDate": "2020-08"
+    },
+    {
+      "highlights": [
+        "Processed data sensors in <strong>Java</strong> and <strong>Python</strong>.",
+        "Integrated algorithms into cloud pipelines (using <strong>AWS</strong> managed services)."
+      ],
+      "summary": "Was part of a project that aimed to enable level 4 autonomous driving.",
+      "website": "https://www.continental-automotive.com/",
+      "name": "Continental Automotive",
+      "location": "Toulouse",
+      "position": "Software Engineer",
+      "startDate": "2017-09",
+      "endDate": "2018-01"
+    },
+    {
+      "highlights": [
+        "Developed an <strong>open source</strong> data integration cloud application in <strong>Python</strong> (using <strong>GCP</strong>).",
+        "Developed new features in HTML/CSS/JavaScript for corporate and internal websites."
+      ],
+      "summary": "1 year immersion into the Marketing Team of a French <strong>open source</strong> software company.",
+      "website": "https://www.nuxeo.com",
+      "name": "Nuxeo",
+      "location": "New York",
+      "position": "Web Developer (\"Volontariat International en Entreprise\" program)",
+      "startDate": "2016-08",
+      "endDate": "2017-06"
+    },
+    {
+      "highlights": [
+        "Implemented backend web services in <strong>Java</strong> with <strong>Spring MVC</strong> and integrated frontend in <strong>JavaScript</strong>.",
+        "Developed flight data parsers in <strong>Java</strong> and <strong>Python</strong>."
+      ],
+      "summary": "Was part of the development team of the SkyBreathe® Fuel Efficiency web application, a fuel efficiency software for airlines.",
+      "website": "https://www.openairlines.com/",
+      "name": "OpenAirlines",
+      "location": "Toulouse",
+      "position": "Software Engineer",
+      "startDate": "2014-10",
+      "endDate": "2016-07"
+    },
+    {
+      "highlights": [
+        "Completed a 3 months internship for a small e-commerce company (x2i).",
+        "Completed a 3 months internship for the Computer Science laboratory of Toulouse (IRIT).",
+        "Completed a 6 months internship for Airbus Defense & Space."
+      ],
+      "summary": "",
+      "name": "Various",
+      "location": "Toulouse",
+      "position": "Software Development Trainee",
+      "endDate": "2014-09",
+      "startDate": "2012-06"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        "Singing",
+        "Writing Songs",
+        "Playing the Flute and the Guitar"
+      ]
+    },
+    {
+      "name": "",
+      "keywords": [
+        "Reading Graphic Novels",
+        "Watching Foreign Movies"
+      ]
+    },
+    {
+      "name": "",
+      "keywords": [
+        "Bike or Train Travelling",
+        "Cooking and Gastronomy"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    }
+  ]
+}
