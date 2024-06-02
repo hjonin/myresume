@@ -14,7 +14,7 @@ To get started with theme development, this is what you'll need:
 ### Install npm packages
 
 ```
-sudo npm install
+npm install
 ```
 
 ### Serve theme

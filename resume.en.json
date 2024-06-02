@@ -7,8 +7,8 @@
     "website": "",
     "email": "",
     "location": {
-      "city": "Paris",
-      "countryCode": "FR"
+      "city": "Warsaw",
+      "countryCode": "PL"
     },
     "profiles": [
       {
@@ -50,18 +50,17 @@
     },
     {
       "keywords": [
-        "Node.js / Eleventy / Metalsmith / Static Generation",
+        "Node.js / Eleventy / Static Generation",
         "Java / Spring (MVC, Boot) / Kotlin",
         "Python / Flask",
-        "PHP / Zend",
-        "MySQL / MongoDB / GraphQL"
+        "MySQL / MongoDB"
       ],
       "name": "Backend"
     },
     {
       "keywords": [
         "Git",
-        "Github Actions",
+        "GitHub Actions",
         "Docker"
       ],
       "name": "Ops"
@@ -70,20 +69,32 @@
   "work": [
     {
       "highlights": [
-        "Developing team website (code.gouv.fr) and open source tools for public administrations (eleventy-dsfr) in <strong>JavaScript</strong> with <strong>Eleventy</strong>.",
-        "Maintaining current team IT infrastructure."
       ],
-      "summary": "Writing code and advocating for <strong>FLOSS</strong> in public administrations within an <strong>OSPO</strong>.",
-      "website": "https://www.code.gouv.fr",
-      "name": "DINUM",
+      "summary": "Contributing to Software Heritage projects related to archive <strong>metadata</strong> in <strong>JavaScript</strong> and <strong>Python/Django</strong>.<br />Software Heritage is a foundation, which mission is to preserve all software.",
+      "website": "https://www.softwareheritage.org/",
+      "name": "Software Heritage",
       "location": "Paris",
-      "position": "Software Engineer and FLOSS Commissioner",
-      "startDate": "2022-08",
+      "position": "Self-Employed Software Engineer",
+      "startDate": "2024-03",
       "endDate": ""
     },
     {
+      "highlights": [
+        "Developed office website (code.gouv.fr) and <strong>open source</strong> tools for public administrations (such as eleventy-dsfr) in <strong>JavaScript</strong> with <strong>Eleventy</strong>.",
+        "<strong>Spoke</strong> at several events (including university talks, and a radio interview) to promote the use of <strong>free software</strong> in public administrations.",
+        "<strong>Managed</strong> and <strong>trained</strong> a team of 6 interns during 6 months as part of the BlueHats Semester of Code programme."
+      ],
+      "summary": "Wrote code and advocated for <strong>FLOSS</strong> in public administrations within an <strong>OSPO</strong>.",
+      "website": "https://www.code.gouv.fr",
+      "name": "DINUM",
+      "location": "Paris",
+      "position": "FLOSS Commissioner and Web Developer",
+      "startDate": "2022-08",
+      "endDate": "2024-02"
+    },
+    {
       "highlights": [],
-      "summary": "1 year artistic training (singer-songwriter).",
+      "summary": "1 year <strong>artistic training</strong> (singer-songwriter).",
       "website": "",
       "name": "Manufacture Chanson",
       "location": "Paris",
@@ -96,11 +107,11 @@
         "Acculturation to French administration, and paper and digital preservation practices.",
         "Developed an <strong>open source</strong> file transfer application prototype for archivists in <strong>TypeScript</strong> with <strong>Angular</strong>."
       ],
-      "summary": "1 year immersion into the Programme Vitam, a French inter-ministerial program developing an <strong>open source</strong> digital preservation software.",
+      "summary": "1 year immersion into the Programme Vitam, a French inter-ministerial programme developing an <strong>open source</strong> digital preservation software.",
       "website": "https://www.programmevitam.fr",
       "name": "Ministère de la Culture",
       "location": "Paris",
-      "position": "Software Engineer (\"Entrepreneur d'Intérêt Général \" program)",
+      "position": "Software Engineer (\"Entrepreneur d'Intérêt Général\" programme)",
       "startDate": "2020-09",
       "endDate": "2021-06"
     },
@@ -139,7 +150,7 @@
       "website": "https://www.nuxeo.com",
       "name": "Nuxeo",
       "location": "New York",
-      "position": "Web Developer (\"Volontariat International en Entreprise\" program)",
+      "position": "Web Developer (\"Volontariat International en Entreprise\" programme)",
       "startDate": "2016-08",
       "endDate": "2017-06"
     },
@@ -205,6 +216,10 @@
     },
     {
       "language": "Spanish",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Polish",
       "fluency": "Basic"
     }
   ]
