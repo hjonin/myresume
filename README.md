@@ -28,7 +28,7 @@ npm run start
 ### Export pdf
 
 ```
-npm run export
+npm run export-pdf
 ```
 
 ## License
