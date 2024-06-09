@@ -1,0 +1,200 @@
+{
+  "basics": {
+    "name": "Hélène Jonin",
+    "label": "Software Engineer in transition",
+    "image": "",
+    "summary": "I am an experienced Software Engineer, looking for a new career in librarianship and/or archiving, closer to the skills I love to use: collecting, curating and organizing.",
+    "website": "",
+    "email": "",
+    "phone": "",
+    "location": {
+      "city": "Warsaw",
+      "countryCode": "PL"
+    },
+    "profiles": [
+      {
+        "url": "https://www.linkedin.com/in/helenejonin",
+        "username": "helenejonin",
+        "network": "linkedin"
+      },
+      {
+        "url": "https://github.com/hjonin",
+        "username": "hjonin",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2014",
+      "startDate": "2012",
+      "area": "Computer Science and Human Computer Interaction",
+      "studyType": "Master",
+      "institution": "Université Paul Sabatier / Edinburgh Napier University"
+    },
+    {
+      "endDate": "2012",
+      "startDate": "2009",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "institution": "Université Paul Sabatier"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Programming languages (HTML, JavaScript, Python, Java)",
+        "Project management software"
+      ],
+      "name": "IT"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+      ],
+      "summary": "Contributing to Software Heritage projects related to software <strong>metadata</strong>. Software Heritage is a foundation, which mission is to preserve all software through a universal <strong>software archive</strong>.",
+      "website": "https://www.softwareheritage.org/",
+      "name": "Software Heritage",
+      "location": "Paris",
+      "position": "Self-Employed Software Engineer",
+      "startDate": "2024-03",
+      "endDate": ""
+    },
+    {
+      "highlights": [
+        "<strong>Spoke</strong> at several events (including <strong>university talks</strong>, and a <strong>radio interview</strong>) to promote the use of free software in public administrations.",
+        "<strong>Managed</strong> and <strong>trained</strong> a team of 6 interns during 6 months as part of the BlueHats Semester of Code programme."
+      ],
+      "summary": "Advocated for free software in <strong>public administrations</strong> within the French Free Software Unit.",
+      "website": "https://www.code.gouv.fr",
+      "name": "DINUM",
+      "location": "Paris",
+      "position": "Free Software Commissioner and Web Developer",
+      "startDate": "2022-08",
+      "endDate": "2024-02"
+    },
+    {
+      "highlights": [],
+      "summary": "1 year <strong>artistic training</strong> (singer-songwriter).",
+      "website": "",
+      "name": "Manufacture Chanson",
+      "location": "Paris",
+      "position": "Sabbatical",
+      "startDate": "2021-09",
+      "endDate": "2022-06"
+    },
+    {
+      "highlights": [
+        "Acculturation to <strong>French administration</strong>, and <strong>paper and digital preservation</strong> practices.",
+        "Developed an open source file transfer application prototype for and in collaboration with <strong>archivists</strong>."
+      ],
+      "summary": "1 year immersion into the Programme Vitam, a French inter-ministerial programme developing an open source <strong>digital preservation software</strong>.",
+      "website": "https://www.programmevitam.fr",
+      "name": "Ministère de la Culture",
+      "location": "Paris",
+      "position": "Software Engineer (\"Entrepreneur d'Intérêt Général\" programme)",
+      "startDate": "2020-09",
+      "endDate": "2021-06"
+    },
+    {
+      "highlights": [
+      ],
+      "summary": "",
+      "website": "https://www.openairlines.com",
+      "name": "OpenAirlines",
+      "location": "Toulouse",
+      "position": "Software Engineer",
+      "startDate": "2018-03",
+      "endDate": "2020-08"
+    },
+    {
+      "highlights": [
+      ],
+      "summary": "",
+      "website": "https://www.continental-automotive.com/",
+      "name": "Continental Automotive",
+      "location": "Toulouse",
+      "position": "Software Engineer",
+      "startDate": "2017-09",
+      "endDate": "2018-01"
+    },
+    {
+      "highlights": [
+      ],
+      "summary": "1 year immersion into the Marketing Team of a French software company making an open source <strong>content management platform</strong>.",
+      "website": "https://www.nuxeo.com",
+      "name": "Nuxeo",
+      "location": "New York",
+      "position": "Web Developer (\"Volontariat International en Entreprise\" programme)",
+      "startDate": "2016-08",
+      "endDate": "2017-06"
+    },
+    {
+      "highlights": [
+      ],
+      "summary": "",
+      "website": "https://www.openairlines.com/",
+      "name": "OpenAirlines",
+      "location": "Toulouse",
+      "position": "Software Engineer",
+      "startDate": "2014-10",
+      "endDate": "2016-07"
+    },
+    {
+      "highlights": [
+        "Completed a 3 months internship for a small e-commerce company (x2i).",
+        "Completed a 3 months internship for the <strong>Computer Science laboratory</strong> of Toulouse (IRIT).",
+        "Completed a 6 months internship for Airbus Defense & Space."
+      ],
+      "summary": "",
+      "name": "Misc.",
+      "location": "Toulouse",
+      "position": "Software Development Trainee",
+      "endDate": "2014-09",
+      "startDate": "2012-06"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        "Singing",
+        "Writing Songs",
+        "Playing the Flute and the Guitar"
+      ]
+    },
+    {
+      "name": "",
+      "keywords": [
+        "Reading Graphic Novels",
+        "Watching Foreign Movies"
+      ]
+    },
+    {
+      "name": "",
+      "keywords": [
+        "Bike or Train Travelling",
+        "Cooking and Gastronomy"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Polish",
+      "fluency": "Basic"
+    }
+  ]
+}
