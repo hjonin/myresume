@@ -3,9 +3,10 @@
     "name": "Hélène Jonin",
     "label": "Software Engineer",
     "image": "",
-    "summary": "I try to solve some problems with code. Sometimes, I sing.",
+    "summary": "I am an experienced Software Engineer, looking for opportunities related to open science, open data, open source and ecology.",
     "website": "",
     "email": "",
+    "phone": "",
     "location": {
       "city": "Warsaw",
       "countryCode": "PL"
@@ -70,7 +71,7 @@
     {
       "highlights": [
       ],
-      "summary": "Contributing to Software Heritage projects related to archive <strong>metadata</strong> in <strong>JavaScript</strong> and <strong>Python/Django</strong>.<br />Software Heritage is a foundation, which mission is to preserve all software.",
+      "summary": "Contributing to Software Heritage projects related to software <strong>metadata</strong> in <strong>JavaScript</strong> and <strong>Python/Django</strong>. Software Heritage is a <strong>foundation</strong>, which mission is to preserve all software through a universal archive.",
       "website": "https://www.softwareheritage.org/",
       "name": "Software Heritage",
       "location": "Paris",
@@ -81,20 +82,20 @@
     {
       "highlights": [
         "Developed office website (code.gouv.fr) and <strong>open source</strong> tools for public administrations (such as eleventy-dsfr) in <strong>JavaScript</strong> with <strong>Eleventy</strong>.",
-        "<strong>Spoke</strong> at several events (including university talks, and a radio interview) to promote the use of <strong>free software</strong> in public administrations.",
+        "Spoke at several events (including <strong>university talks</strong>, and a radio interview) to promote the use of <strong>free software</strong> in public administrations.",
         "<strong>Managed</strong> and <strong>trained</strong> a team of 6 interns during 6 months as part of the BlueHats Semester of Code programme."
       ],
-      "summary": "Wrote code and advocated for <strong>FLOSS</strong> in public administrations within an <strong>OSPO</strong>.",
+      "summary": "Wrote code and advocated for <strong>free software</strong> in <strong>public administrations</strong> within the <strong>French Free Software Unit</strong>.",
       "website": "https://www.code.gouv.fr",
       "name": "DINUM",
       "location": "Paris",
-      "position": "FLOSS Commissioner and Web Developer",
+      "position": "Free Software Commissioner and Web Developer",
       "startDate": "2022-08",
       "endDate": "2024-02"
     },
     {
       "highlights": [],
-      "summary": "1 year <strong>artistic training</strong> (singer-songwriter).",
+      "summary": "1 year artistic training (singer-songwriter).",
       "website": "",
       "name": "Manufacture Chanson",
       "location": "Paris",
@@ -104,7 +105,7 @@
     },
     {
       "highlights": [
-        "Acculturation to French administration, and paper and digital preservation practices.",
+        "Acculturation to <strong>French administration</strong>, and paper and digital preservation practices.",
         "Developed an <strong>open source</strong> file transfer application prototype for archivists in <strong>TypeScript</strong> with <strong>Angular</strong>."
       ],
       "summary": "1 year immersion into the Programme Vitam, a French inter-ministerial programme developing an <strong>open source</strong> digital preservation software.",
@@ -118,7 +119,7 @@
     {
       "highlights": [
         "Helped to refactor backend including <strong>Java Spring</strong> \"bootification\".",
-        "Helped to ops and frontend migration."
+        "Helped to ops, frontend and <strong>data ingestion platform</strong> migration."
       ],
       "summary": "Was part of the SkyBreathe® Fuel Efficiency development team again to modernize the application.",
       "website": "https://www.openairlines.com",
@@ -130,8 +131,8 @@
     },
     {
       "highlights": [
-        "Processed data sensors in <strong>Java</strong> and <strong>Python</strong>.",
-        "Integrated algorithms into cloud pipelines (using <strong>AWS</strong> managed services)."
+        "Processed <strong>sensors data</strong> in <strong>Java</strong> and <strong>Python</strong>.",
+        "Integrated algorithms into <strong>cloud pipelines</strong> (using <strong>AWS</strong> managed services)."
       ],
       "summary": "Was part of a project that aimed to enable level 4 autonomous driving.",
       "website": "https://www.continental-automotive.com/",
@@ -143,10 +144,10 @@
     },
     {
       "highlights": [
-        "Developed an <strong>open source</strong> data integration cloud application in <strong>Python</strong> (using <strong>GCP</strong>).",
+        "Developed an <strong>open source data integration cloud application</strong> in <strong>Python</strong> (using <strong>GCP</strong>).",
         "Developed new features in HTML/CSS/JavaScript for corporate and internal websites."
       ],
-      "summary": "1 year immersion into the Marketing Team of a French <strong>open source</strong> software company.",
+      "summary": "1 year immersion into the Marketing Team of a French software company making an <strong>open source</strong> content management platform.",
       "website": "https://www.nuxeo.com",
       "name": "Nuxeo",
       "location": "New York",
@@ -157,7 +158,7 @@
     {
       "highlights": [
         "Implemented backend web services in <strong>Java</strong> with <strong>Spring MVC</strong> and integrated frontend in <strong>JavaScript</strong>.",
-        "Developed flight data parsers in <strong>Java</strong> and <strong>Python</strong>."
+        "Developed flight data <strong>parsers</strong> in <strong>Java</strong> and <strong>Python</strong>."
       ],
       "summary": "Was part of the development team of the SkyBreathe® Fuel Efficiency web application, a fuel efficiency software for airlines.",
       "website": "https://www.openairlines.com/",
@@ -170,11 +171,11 @@
     {
       "highlights": [
         "Completed a 3 months internship for a small e-commerce company (x2i).",
-        "Completed a 3 months internship for the Computer Science laboratory of Toulouse (IRIT).",
+        "Completed a 3 months internship for the <strong>Computer Science laboratory</strong> of Toulouse (IRIT).",
         "Completed a 6 months internship for Airbus Defense & Space."
       ],
       "summary": "",
-      "name": "Various",
+      "name": "Misc.",
       "location": "Toulouse",
       "position": "Software Development Trainee",
       "endDate": "2014-09",
