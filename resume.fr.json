@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Hélène Jonin",
-    "label": "Développeuse",
+    "label": "Développeuse (full-stack)",
     "image": "",
     "summary": "J'aime résoudre des problèmes, parfois en codant. Sinon, je chante, joue de la musique, dessine et lis.",
     "website": "",
@@ -29,14 +29,21 @@
       "startDate": "2012",
       "area": "Informatique et Interaction Homme-Machine",
       "studyType": "Master",
-      "institution": "Université Paul Sabatier / Edinburgh Napier University"
+      "institution": "Université Paul Sabatier / Edinburgh Napier University",
+      "courses": [
+        "Stage de 3 mois pour Airbus Defense & Space dans la division spatiale.",
+        "Stage de 3 mois pour l'Institut de Recherche en Informatique de Toulouse."
+      ]
     },
     {
       "endDate": "2012",
       "startDate": "2009",
       "area": "Informatique",
       "studyType": "Licence",
-      "institution": "Université Paul Sabatier"
+      "institution": "Université Paul Sabatier",
+      "courses": [
+        "Stage de 3 mois pour une petite entreprise d'e-commerce (x2i)."
+      ]
     }
   ],
   "skills": [
@@ -50,18 +57,17 @@
     },
     {
       "keywords": [
-        "Node.js / Eleventy / Metalsmith / Static Generation",
+        "Node.js / Eleventy / Static Generation",
         "Java / Spring (MVC, Boot) / Kotlin",
         "Python / Flask",
-        "PHP / Zend",
-        "MySQL / MongoDB / GraphQL"
+        "MySQL / MongoDB"
       ],
       "name": "Backend"
     },
     {
       "keywords": [
         "Git",
-        "Github Actions",
+        "GitHub Actions",
         "Docker"
       ],
       "name": "Ops"
@@ -70,16 +76,28 @@
   "work": [
     {
       "highlights": [
-        "Développement du site institutionnel (code.gouv.fr) et d'outils pour les administrations françaises (eleventy-dsfr) en <strong>JavaScript</strong> avec <strong>Eleventy</strong>.",
-        "Présentations et formations autour des <strong>logiciels libres</strong>."
       ],
-      "summary": "J'écris du code et je sensibilise les administrations françaises aux <strong>logiciels libres</strong>.",
+      "summary": "Je contribue aux projets de Software Heritage reliés aux <strong>métadonnées de logiciels</strong>, en <strong>JavaScript</strong> et <strong>Python/Django</strong>.<br />Software Heritage est une fondation, dont la mission est de préserver tous les logiciels dans une archive universelle.",
+      "website": "https://www.softwareheritage.org/",
+      "name": "Software Heritage",
+      "location": "Varsovie",
+      "position": "Ingénieure logiciel indépendante",
+      "startDate": "2024-03",
+      "endDate": "2024-09"
+    },
+    {
+      "highlights": [
+        "Développement du site institutionnel (code.gouv.fr) et d'outils pour les administrations françaises (eleventy-dsfr) en <strong>JavaScript</strong> avec <strong>Eleventy</strong>.",
+        "Présentations et formations (incluant des séminaires universitaires et une interview radio) autour des <strong>logiciels libres</strong>.",
+        "Gestion et formation d'une équipe de 6 stagiaires pendant 6 mois dans le cadre du programme BlueHats Semester of Code."
+      ],
+      "summary": "Maintenance des produits de la mission et sensibilisation des administrations françaises aux <strong>logiciels libres</strong>.",
       "website": "https://www.code.gouv.fr",
       "name": "DINUM",
       "location": "Paris",
       "position": "Développeuse et chargée de mission logiciels libres",
       "startDate": "2022-08",
-      "endDate": ""
+      "endDate": "2024-02"
     },
     {
       "highlights": [
@@ -108,8 +126,8 @@
     },
     {
       "highlights": [
-        "Modernisation et maintenance de l'application.",
-        "Migrations et refactorings tel que la \"bootification\" de l'application."
+        "Maintenance et modernisation de l'application telle que la <strong>Spring \"bootification\"</strong> de l'application.",
+        "Aide à la migration des opérations, du frontend et de la plateforme d'ingestion des données."
       ],
       "summary": "Membre de l'équipe de développement du logiciel d'éco-pilotage SkyBreathe® Fuel Efficiency.",
       "website": "https://www.openairlines.com",
@@ -135,7 +153,7 @@
     {
       "highlights": [
         "Développement d'une application <strong>open source</strong> d'intégration de données Marketing dans le cloud en <strong>Python</strong> et en utilisant <strong>GCP</strong>.",
-        "Maintenance des sites webs internes et institutionnels en <strong>HTML/CSS/JavaScript</strong> et avec <strong>Metalsmith</strong>."
+        "Maintenance et évolution des sites webs internes et institutionnels en <strong>HTML/CSS/JavaScript</strong> et avec <strong>Metalsmith</strong>."
       ],
       "summary": "Immersion d'un an au sein de l'équipe Marketing d'une entreprise <strong>open source</strong>.",
       "website": "https://www.nuxeo.com",
@@ -157,19 +175,6 @@
       "position": "Ingénieure logiciel",
       "startDate": "2014-10",
       "endDate": "2016-07"
-    },
-    {
-      "highlights": [
-        "Stage de 3 mois pour une petite entreprise d'e-commerce (x2i).",
-        "Stage de 3 mois pour l'Institut de Recherche en Informatique de Toulouse.",
-        "Stage de 3 mois pour Airbus Defense & Space dans la division spatiale."
-      ],
-      "summary": "",
-      "name": "Divers",
-      "location": "Toulouse",
-      "position": "Stagiaire en informatique",
-      "endDate": "2014-09",
-      "startDate": "2012-06"
     }
   ],
   "interests": [
@@ -177,8 +182,8 @@
       "name": "",
       "keywords": [
         "Chanter",
-        "Composer",
-        "Jouer de la flûte et de la guitare"
+        "Jouer de la flûte et de la guitare",
+        "Dessiner"
       ]
     },
     {
@@ -207,6 +212,10 @@
     },
     {
       "language": "Espagnol",
+      "fluency": "Débutant"
+    },
+    {
+      "language": "Polonais",
       "fluency": "Débutant"
     }
   ]
