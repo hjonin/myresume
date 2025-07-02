@@ -77,7 +77,18 @@
     {
       "highlights": [
       ],
-      "summary": "Je contribue aux projets de Software Heritage reliés aux <strong>métadonnées de logiciels</strong>, en <strong>JavaScript</strong> et <strong>Python/Django</strong>.<br />Software Heritage est une fondation, dont la mission est de préserver tous les logiciels dans une archive universelle.",
+      "summary": "Je contribue au projet Tricoteuses, notamment au projet d'extraction des données du Sénat en <strong>TypeScript</strong>, pour leur intégration dans un outil de veille et de vulgarisation parlementaire.",
+      "website": "https://tricoteuses.fr/",
+      "name": "Logora/Legiwatch",
+      "location": "Paris",
+      "position": "Ingénieure logiciel",
+      "startDate": "2024-10"
+    },
+    {
+      "highlights": [
+        "Contribution aux projets de Software Heritage reliés aux <strong>métadonnées de logiciels</strong>, en <strong>JavaScript</strong> et <strong>Python/Django</strong>."
+      ],
+      "summary": "Intégration à l'équipe de développement de Software Heritage, une fondation dont la mission est de préserver tous les logiciels dans une archive universelle.",
       "website": "https://www.softwareheritage.org/",
       "name": "Software Heritage",
       "location": "Varsovie",
