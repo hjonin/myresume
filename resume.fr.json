@@ -7,7 +7,7 @@
     "website": "",
     "email": "",
     "location": {
-      "city": "Paris",
+      "city": "Bordeaux",
       "countryCode": "FR"
     },
     "profiles": [
@@ -77,12 +77,13 @@
     {
       "highlights": [
       ],
-      "summary": "Je contribue au projet Tricoteuses, notamment au projet d'extraction des données du Sénat en <strong>TypeScript</strong>, pour leur intégration dans un outil de veille et de vulgarisation parlementaire.",
+      "summary": "Contribution au projet Tricoteuses, notamment au projet d'extraction des données du Sénat en <strong>TypeScript</strong>, pour leur intégration dans un outil de veille et de vulgarisation parlementaire.",
       "website": "https://tricoteuses.fr/",
       "name": "Logora/Legiwatch",
       "location": "Paris",
       "position": "Ingénieure logiciel",
-      "startDate": "2024-10"
+      "startDate": "2024-10",
+      "endDate": "2025-08"
     },
     {
       "highlights": [
